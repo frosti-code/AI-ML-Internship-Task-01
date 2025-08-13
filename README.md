@@ -41,7 +41,6 @@ _No machine learning model applied — this was purely exploratory data analysis
 - Python (Pandas, NumPy)
 - Matplotlib, Seaborn
 
----
+--- 
+💻 Author: Muhammad Mustaqeem Javed
 
-📅 **Internship Duration:** Month Year – Month Year  
-💻 **Author:** Muhammad Mustaqeem Javed
